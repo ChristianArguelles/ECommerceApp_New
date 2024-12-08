@@ -1,0 +1,3 @@
+[submodule "shop-me"]
+	path = shop-me
+	url = https://github.com/ChristianArguelles/ECommerceApp_New.git
